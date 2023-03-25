@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Button>按钮</Button>
+      <Button type="primary">按钮</Button>
     </div>
   );
 }
