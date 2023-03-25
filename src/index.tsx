@@ -14,7 +14,7 @@ root.render(
     <ThemeProvider
       theme={{
         token: {
-          colorPrimary: "#ffff00",
+          colorPrimary: "#bfa",
         },
       }}
     >
